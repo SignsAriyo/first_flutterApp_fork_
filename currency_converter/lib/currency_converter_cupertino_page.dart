@@ -10,7 +10,7 @@ class CurrencyConverterCupertinoPage extends StatefulWidget {
 
 class _CurrencyConverterCupertinoPageState
     extends State<CurrencyConverterCupertinoPage> {
-  double result = 0;
+  double result = 1;
   final TextEditingController textEditingController = TextEditingController();
 
   void convert() {
